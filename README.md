@@ -2,4 +2,3 @@
 ##
 <p>Primeiro contato com SocketIo, enviando mensagens entre o back e o front
 </p>
-<p>Projeto de Chat Online</p>
